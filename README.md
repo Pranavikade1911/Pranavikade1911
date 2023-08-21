@@ -38,7 +38,9 @@ System includes Location aware features at the  disaster sites as well as quick 
 ![Html](https://img.shields.io/badge/Html-121011?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 ![Css](https://img.shields.io/badge/Css-%23008080.svg?style=for-the-badge&logo=Css&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/Javascript-%23000000.svg?style=for-the-badge&logo=Javascript&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/Node.js-121011?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-121011?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
 <!--
