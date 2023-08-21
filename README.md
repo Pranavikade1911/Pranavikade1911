@@ -3,6 +3,7 @@ Results-driven Full Stack Web Developer with a strong passion for development an
 websites. Proficient in Python and experienced in utilizing web development technologies such as HTML, CSS,
 JavaScript, Node.js, MongoDB, MySQL, and React.js
 
+### ✨&nbsp; About Me
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Nodejs, Mongodb
