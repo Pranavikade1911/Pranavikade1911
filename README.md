@@ -36,12 +36,13 @@ System includes Location aware features at the  disaster sites as well as quick 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-ED8B00?style=for-the-badge&logo=machinelearning&logoColor=white)&nbsp;
 ![Html](https://img.shields.io/badge/Html-121011?style=for-the-badge&logo=html&logoColor=white)&nbsp;
-![Css](https://img.shields.io/badge/Css-%23008080.svg?style=for-the-badge&logo=Css&logoColor=white)&nbsp;
+![Css](https://img.shields.io/badge/Css-%23008080.svg?style=for-the-badge&logo=css&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/Javascript-%23000000.svg?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-121011?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-121011?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
+![Mongodb](https://img.shields.io/badge/Mongodb-00000F?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-00000F?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
 <!--
 **Pranavikade1911/Pranavikade1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
