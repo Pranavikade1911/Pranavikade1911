@@ -20,12 +20,15 @@ JavaScript, Node.js, MongoDB, MySQL, and React.js
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/pranavikade_1911/)
 </p>
 
-#### My Opensource Story
-All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
+#### My Project's 
 - [Smart Triage System For Patient Assessment after disaster](https://triage-system-for-patient-management.onrender.com/) - The design and implementation of a triage system  to automate patient handling and assignment to  hospitals in a mass disasters involving a large  number of injured victims over a wireless network.
 System includes Location aware features at the  disaster sites as well as quick classification and  assignment of patients to nearby hospitals.
 
+- [RedStore](https://github.com/Pranavikade1911/E-Commerce_Website/) - An ecommerce website is your digital storefront on the internet. It facilitates the transaction between a buyer and seller. It is the virtual space where you showcase products, and online customers make selections.
 
+- [Staybnb](https://github.com/Pranavikade1911/Home-Rental_website) - With the app, you can quickly book hotels at the last minute (as well as far in advance). Finding a place in short order has never been easier. Our app allows you to search for properties nearby, fill in a few details, and secure your reservation. You can also change, cancel, or make additional reservations on the go.
+
+- [Netflix_Clone ](https://github.com/Pranavikade1911/Netflix_Clone) - A Netflix clone is a feature-rich software script that allows developers to create and deploy a video-on-demand platform similar to Netflix.
 
 [⏩ &nbsp; and many more](https://github.com/Pranavikade1911) 
 
