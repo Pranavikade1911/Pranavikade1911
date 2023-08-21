@@ -4,6 +4,12 @@ websites. Proficient in Python and experienced in utilizing web development tech
 JavaScript, Node.js, MongoDB, MySQL, and React.js
 
 
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Nodejs, Mongodb
+- 💬 &nbsp;Ask me about anything related to Python/Machine Learning/Html/Css/Javascript or /React/Express/Sql/Bootstrap
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and PS Gaming (GamerTag: [Twin-Arrow_7](https://id.sonyentertainmentnetwork.com/id/management_ca/?gated=true&pr_referer=cam&entry=psn_profile&cid=06a6cdd6-5a91-4a05-b903-e93012d3cd54#/p/psn_profile/list?cid=f1b2e633-7b43-415d-aad5-91dd01181bc8&entry=psn_profile&state=cam_cea2e669c7e39969d70248eaf640dc72))
+
+
 ## Connect with me:
 
 <p align = "center">
