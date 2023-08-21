@@ -35,7 +35,7 @@ System includes Location aware features at the  disaster sites as well as quick 
 #### Languages and Frameworks:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-ED8B00?style=for-the-badge&logo=machinelearning&logoColor=white)&nbsp;
-![Html](https://img.shields.io/badge/Html-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![Html](https://img.shields.io/badge/Html-121011?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 ![Css](https://img.shields.io/badge/Css-%23008080.svg?style=for-the-badge&logo=Css&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/Javascript-%23000000.svg?style=for-the-badge&logo=Javascript&logoColor=white)
 
