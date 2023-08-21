@@ -20,6 +20,16 @@ JavaScript, Node.js, MongoDB, MySQL, and React.js
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/pranavikade_1911/)
 </p>
 
+#### My Opensource Story
+All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
+- [Smart Triage System For Patient Assessment after disaster](https://triage-system-for-patient-management.onrender.com/) - The design and implementation of a triage system  to automate patient handling and assignment to  hospitals in a mass disasters involving a large  number of injured victims over a wireless network.
+System includes Location aware features at the  disaster sites as well as quick classification and  assignment of patients to nearby hospitals.
+![image](https://github.com/Pranavikade1911/Pranavikade1911/assets/67627268/17f426d2-cc12-4297-ac56-0774249b54ea)
+
+
+[⏩ &nbsp; and many more](https://github.com/Pranavikade1911) 
+
+
 <!--
 **Pranavikade1911/Pranavikade1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
