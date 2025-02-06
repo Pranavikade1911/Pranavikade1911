@@ -1,7 +1,7 @@
 ### Hi there, I'm [Pranav Ikade](https://www.linkedin.com/in/pranav-ikade-6b296a179/) 👋
 Results-driven Full Stack Web Developer with a strong passion for development and designing visually appealing
 websites. Proficient in Python and experienced in utilizing web development technologies such as HTML, CSS,
-JavaScript, Angular, MySQL, and Bootstrap 
+JavaScript, Angular, SpringBoot, MySQL, and Bootstrap 
 
 ### ✨&nbsp; About Me
 
